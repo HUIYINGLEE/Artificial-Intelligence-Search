@@ -1,10 +1,4 @@
-"""
-    Enter your details below:
 
-    Name: Huiying Li
-    Student Code: u6015465
-    email: u6015465@anu.edu.au
-"""
 import frontiers
 import search_strategies
 
