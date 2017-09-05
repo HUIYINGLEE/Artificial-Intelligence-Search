@@ -1,13 +1,8 @@
-# game.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
+
 
 """ This file defines the game class, which manages the control of the game. It
     gets actions from the agents and executes them until the game ends.
 
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 import time, os, traceback, sys
