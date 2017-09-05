@@ -1,20 +1,6 @@
-# red_bird.py
-# ----------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
 
 """ This is the main file of the program. It holds the logic for the classic
     red bird game along with the main code to run a game.
-
-    There is nothing you really need to look at in this file.
-
-    For those of you who really want to poke around, try:
-        python red_bird.py --help
-
-    to get the full command line arguments of the program.
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 import sys, os, random
