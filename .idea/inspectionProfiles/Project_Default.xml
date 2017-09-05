@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="frontiers" />
+          <option value="util" />
+          <option value="search_strategies" />
+          <option value="code.search_strategies.ids_search" />
+          <option value="code.search_strategies.brfs_search" />
+          <option value="code.search_strategies.a_star_search" />
+          <option value="heuristics" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
