@@ -1,13 +1,3 @@
-# util.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
-
-""" Data useful things. You should not need to look at this at all.
-
-********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
-"""
 
 import sys
 import inspect
