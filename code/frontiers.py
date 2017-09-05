@@ -1,15 +1,9 @@
-# frontiers.py
-# ----------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course.
 
 """ This file contains data structures useful for representing search frontiers
     for your depth-first, breadth-first, and a-star search algorithms (Q1-3).
 
     You do not have to use these, but it is strongly recommended.
 
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 import heapq, collections
