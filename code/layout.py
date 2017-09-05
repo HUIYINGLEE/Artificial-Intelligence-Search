@@ -1,16 +1,6 @@
-# layout.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
 
 """ This file defines a Layout which is read from a file. The Layout class
     contains static information about the game.
-
-    We have structured this assignment so that you should not need to access
-    this information directly.
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 import os, random
