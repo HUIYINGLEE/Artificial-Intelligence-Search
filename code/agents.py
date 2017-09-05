@@ -1,8 +1,4 @@
-# agents.py
-# ----------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
+
 
 """ This file defines a set of Agents which interact with the system via actions.
     All of the agents defined in the program extend the class Agent.
@@ -11,7 +7,6 @@
     at the bottom of the file, in case you want to see exactly how the black bird
     acts in adversarial search.
 
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 import time
