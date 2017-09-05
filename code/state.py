@@ -1,15 +1,6 @@
-# state.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
 
 """ This file defines the State class which is used by the underlying system
-    to represent the state of the game. You will not need to look at this as
-    you will be working with SearchProblems which abstract away the details of
-    this class.
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
+    to represent the state of the game. Y
 """
 
 
