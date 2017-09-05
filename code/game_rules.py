@@ -1,18 +1,10 @@
-# game_rules.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
+
 
 """ This file defines the rules of the game being played and the rules for both
     the red bird and the black bird.
 
     It describes the game flow, what constitutes a legal move for an agent, and
     how a successor state is produced.
-
-    You should not need to look at this file.
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 from game import Game
