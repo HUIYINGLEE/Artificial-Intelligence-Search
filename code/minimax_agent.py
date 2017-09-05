@@ -1,16 +1,3 @@
-# minimax_agent.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
-
-"""
-    Enter your details below:
-
-    Name: Huiying Li
-    Student Code: u6015465
-    email: u6015465@anu.edu.au
-"""
 
 from agents import Agent
 import util
