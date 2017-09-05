@@ -1,8 +1,4 @@
-# actions.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
+
 
 """ This file defines the classes Directions and Actions.
 
@@ -11,8 +7,6 @@
 
     Both of these classes are used statically throughout the code whenever we are
     working with actions (which are stored as strings representing directions).
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 class Directions:
