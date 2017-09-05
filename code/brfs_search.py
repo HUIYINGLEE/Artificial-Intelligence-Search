@@ -1,15 +1,8 @@
-"""
-    Enter your details below:
-
-    Name: Huiying Li
-    Student Code: u6015465
-    email: u6015465@anu.edu.au
-"""
 
 import frontiers
 
 def solve(problem) :
-    """ *** YOUR CODE HERE *** """
+   
     #create a frontier use priority queue with the function len()
     #which means that the shorest path with be ordered in the first position of the queue
     #so when pop called, queue will pop the shorest path. For example, the path with length (or depth) 2
