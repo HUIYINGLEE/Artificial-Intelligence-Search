@@ -1,8 +1,4 @@
-# graphics_display.py
-# --------------
-# COMP3620/6320 Artificial Intelligence
-# The Australian National University
-# For full attributions, see attributions.txt on Wattle at the end of the course
+
 
 """ This file uses graphics_utils to draw the game onto the screen. 
     
@@ -13,8 +9,6 @@
     If you want to make an animation, look at the save_frame function at the
     bottom of this file. You should put calls to it in the run method of the
     Game class.
-
-    ********** YOU SHOULD NOT CHANGE ANYTHING IN THIS FILE **********
 """
 
 from graphics_utils import *
